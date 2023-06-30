@@ -13,7 +13,7 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 
 ## Academic Background
 
-**`<font color='red'>`[Highlight]`</font>` I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
+**`<font color='red'>`[Highlight]`</font>` I am looking for Post Doc. to start in 2024 Fall. Contact me if you have any leads!** [xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)
 
 - **Sep 2019 - now :** Institute of High Energy Physics (Ph.D. Student)
 - **Sep 2015 - Jun 2019:** Wuhan University of Technology (BEng)
