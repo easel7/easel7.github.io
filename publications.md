@@ -7,9 +7,9 @@ title: Publications
 
 Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
 
-## Undergrad Thesis
+Undergraduated Thesis
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf) `<br>`**Hanlin Cai** (Advisor: Wen Chen, co-Advisor: Jie Shen)`<br>`Industrial Placement Thesis in Huading Tech and IACTIP Lab `<br>`
+- [The first principle calculation on the optical property on Barium-based complex perovskite ($Ba(B^{'}B^{"})O_{3}$)](https://github.com/easel7/easel7.github.io/blob/main/mypaper/thesis/BEng_Thesis.pdf) `<br>`**Zheng Xiong** (Advisor: Wen Chen, co-Advisor: Jie Shen)`<br>`Industrial Placement Thesis in Huading Tech and IACTIP Lab `<br>`
 
 ## Conference Paper
 
