@@ -10,7 +10,7 @@ Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://easel7.
 
 ## Undergraduated Thesis
 
-- [The first principle calculation on the optical property on Barium-based complex perovskite ($Ba(B^{'}B^{"})O_{3}$/)](https://github.com/easel7/easel7.github.io/blob/main/mypaper/thesis/BEng_Thesis.pdf) **Zheng Xiong** (Advisor: Wen Chen, co-Advisor: Jie Shen) , Wuhan University of Technology
+- The first principle calculation on the optical property on Barium-based complex perovskite ($Ba(B^{'}B^{"})O_{3}$) [Archieved](https://github.com/easel7/easel7.github.io/blob/main/mypaper/thesis/BEng_Thesis.pdf) **Zheng Xiong** (Advisor: Wen Chen, co-Advisor: Jie Shen) , Wuhan University of Technology
 
 ---
 ## Research Paper
