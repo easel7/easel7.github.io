@@ -5,27 +5,26 @@ title: Publications
 ---
 # Publications
 
-Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://easel7.github.io/publications-zh/)
 
-Undergraduated Thesis
+## Undergraduated Thesis
 
-- [The first principle calculation on the optical property on Barium-based complex perovskite ($Ba(B^{'}B^{"})O_{3}$)](https://github.com/easel7/easel7.github.io/blob/main/mypaper/thesis/BEng_Thesis.pdf) `<br>`**Zheng Xiong** (Advisor: Wen Chen, co-Advisor: Jie Shen)`<br>`Industrial Placement Thesis in Huading Tech and IACTIP Lab `<br>`
+- [The first principle calculation on the optical property on Barium-based complex perovskite ($Ba(B^{'}B^{"})O_{3}$​)](https://github.com/easel7/easel7.github.io/blob/main/mypaper/thesis/BEng_Thesis.pdf) **Zheng Xiong** (Advisor: Wen Chen, co-Advisor: Jie Shen) , Wuhan University of Technology
 
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)`<br>`**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong`<br>`28th International Conference on Artificial Life and Robotics`<br>`Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)`<br>`**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong`<br>`4th International Conference on Computer Engineering, Network and Intelligent Multimedia`<br>`Surabaya, Indonesia. November, 2022.`<br>`
-
-<br>
+- Z. Xiong, S. Wu, and H. H. He, "Measurement of cosmic-ray electrons with lhaaso km2a-wcda synergy", ICRC 2023, Nagoya, Japan, 2023.
+- Z. Xiong, S. Wu, and H. H. He, "Method to measure muon content of extensive air showers with lhaaso km2a-wcda synergy", ICRC 2023, Nagoya, Japan, 2023.
 
 ---
 
-## Competition Paper
+## Popular Science Writing / Translation
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)`<br>`**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu`<br>`Mathematical Contest In Modeling (COMAP 2023)`<br>`**Finalist Award** (Top 1% of all 20858 paper).`<br>`
+- Z. Xiong and X. Q. Dong, “在校园捕捉来自宇宙的信息——2021年“国际宇宙日”活动概览(to
+capture the information from universe at campus - digest on 2021 cosmic day),” Modern Physics, vol. 34, no. 02, pp. 47–53, 2022, ISSN: 1001-0610.[DOI: 10.13405/j.cnki.xdwz.2022.02.017.](DOI: 10.13405/j.cnki.xdwz.2022.02.017.)
 
-## Working Manuscript
+- ParadoX, “超越费米悖论(Beyond Fermi Paradox),” in ser. Beyond Fermi Paradox 8/16, Mar. 2021. [URL: https://mp.weixin.qq.com/s/9EqbGyC7wJtVuMysE7N1sA](URL: https://mp.weixin.qq.com/s/9EqbGyC7wJtVuMysE7N1sA).
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.`<br>`**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)`<br>`[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)
+- ParadoX, “天文学家如愿以偿得到了想要的数据,却发现“哈勃常数危机”加剧了(Astronomers Get Their Wish, and a Cosmic Crisis Gets Worse),” in ser. IHEP Doctorial Scope 1/3, Dec. 2020. [URL: https://mp.weixin.qq.com/s/hPDKQVW60trVTOAw8Mrp_A](URL: https://mp.weixin.qq.com/s/hPDKQVW60trVTOAw8Mrp_A).
 
-<br>
+- ParadoX, “天文学家的备忘手册(Astronomer’s Toolbox),” in ser. Astronomer’s Toolbox, 2020. [URL:https://mp.weixin.qq.com/s/l0kYWIsxJZn-FotJNb-BAA](URL:https://mp.weixin.qq.com/s/l0kYWIsxJZn-FotJNb-BAA).
