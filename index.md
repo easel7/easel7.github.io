@@ -3,15 +3,15 @@ layout: page
 ---
 # About Me
 
-<img src="https://easel7.github.io/images/XLAB.JPG" class="floatpic" width="360" height="480">
+`<img src="https://easel7.github.io/images/XLAB.JPG" class="floatpic" width="360" height="480">`
 
-Here is Zheng Xiong **([熊 峥](https://easel7.github.io/file/蔡汉霖简历.pdf))**.
+Here is Zheng Xiong **([熊 峥](https://easel7.github.io/file/C:\Users\Blank\OneDrive\Documents\GitHub\easel7.github.io\file\Resume_CN.pdf))**.
 
 I am a collaborator in the LHAASO (Large High Altitude Air Shower Observatory) Collaboration. I cooperated with my supervisor, [Prof. Huihai He](https://people.ucas.ac.cn/~hhh), to finish a  research article on the Lorentz violation constraint using the LHAASO-KM2A early-stage observation in 2021. Now, my Ph.D. research revolves around cosmic-ray electron studies.
 
-I am extremely fortunate to be advised by [Prof. Huihai He](https://people.ucas.ac.cn/~hhh) and [Prof. Jie Shen](http://smse.whut.edu.cn/yjspy/xsdw/sdxx/201612/t20161215_252230.htm). 
+I am extremely fortunate to be advised by [Prof. Huihai He](https://people.ucas.ac.cn/~hhh) and [Prof. Jie Shen](http://smse.whut.edu.cn/yjspy/xsdw/sdxx/201612/t20161215_252230.htm).
 
-Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf)/ (in Mandarin Chinese)[https://easel7.github.io/file/Resume_CN.pdf].
+Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf)/ (in Mandarin Chinese)[https://easel7.github.io/file/Resume_EN.pdf].
 
 <br>
 
@@ -30,7 +30,7 @@ Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf)/ (in
 
 - Cosmic-Ray Electrons (Now)
 
-Measurement of cosmic-ray electron spectrum above 20 TeV with ground-based arrays is still challenging because of the difficulty of rejection of hadronic extensive air shower background. 
+Measurement of cosmic-ray electron spectrum above 20 TeV with ground-based arrays is still challenging because of the difficulty of rejection of hadronic extensive air shower background.
 
 In the feasibility research stage (2022), I found that the current hadron rejection power of the LHAASO-KM2A is insufficient to measure cosmic-ray electrons. I developed a new method to use WCDA to measure the muonic content in each shower. With the help of WCDA, the rejection power of LHAASO-KM2A has the potential to measure the cosmic-ray electron spectrum over 20 TeV. In the current research stage (2023), I am increasing the simulated statistics to get optimized discrimination cuts for KM2A. These results have already been reported at a recent conference, ICRC 2023. And I expect to see the early result of the cosmic-ray electron spectrum measured by LHAASO in 2024.
 

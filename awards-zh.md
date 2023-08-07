@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards-zh/index.html
-title: Awards-zhj
+title: Awards-zh
 ---
 ## 获奖情况
 
@@ -11,6 +11,6 @@ title: Awards-zhj
 ## 认证
 
 - 2018： **Certified Advanced Students Training**. 德国哥廷根大学 XLab实验室
-- 2022： **Certified Data Analysis Skill.** 2022 LHAASO 暑期学校 
+- 2022： **Certified Data Analysis Skill.** 2022 LHAASO 暑期学校
 
 更新时间：2023/05/21&nbsp;   [English Version (英文)](https://easel7.github.io/awards/)
