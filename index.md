@@ -5,9 +5,13 @@ layout: page
 
 <img src="https://easel7.github.io/images/XLAB.JPG" class="floatpic" width="360" height="480">
 
-Here is Zheng Xiong **(Kevin, [熊峥](https://easel7.github.io/file/蔡汉霖简历.pdf))**.
+Here is Zheng Xiong **([熊 峥](https://easel7.github.io/file/蔡汉霖简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf)/ (in Mandarin Chinese)[https://easel7.github.io/file/Resume_CN.pdf].
+I am a collaborator in the LHAASO (Large High Altitude Air Shower Observatory) Collaboration. I cooperated with my supervisor, [Prof. Huihai He](https://people.ucas.ac.cn/~hhh), to finish a research article on the Lorentz violation constraint using the LHAASO-KM2A early-stage observation in 2021. Now, my Ph.D. research revolves around cosmic-ray electron studies.
+
+I am extremely fortunate to be advised by [Prof. Huihai He](https://people.ucas.ac.cn/~hhh) and [Prof. Jie Shen](http://smse.whut.edu.cn/yjspy/xsdw/sdxx/201612/t20161215_252230.htm). 
+
+Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf)/ (in Mandarin Chinese)[https://easel7.github.io/file/Resume_CN.pdf].
 
 <br>
 
@@ -24,24 +28,25 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 
 ## Research Interests
 
-- Industrial IoT System
-- Applied Machine Learning
-- Bionic Quadruped Robot
+- Cosmic-Ray Electrons (Now)
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+Measurement of cosmic-ray electron spectrum above 20 TeV with ground-based arrays is still challenging because of the difficulty of rejection of hadronic extensive air shower background. \par 
+
+In the feasibility research stage (2022), I found that the current hadron rejection power of the LHAASO-KM2A is insufficient to measure cosmic-ray electrons. I developed a new method to use WCDA to measure the muonic content in each shower. With the help of WCDA, the rejection power of LHAASO-KM2A has the potential to measure the cosmic-ray electron spectrum over 20 TeV. In the current research stage (2023), I am increasing the simulated statistics to get optimized discrimination cuts for KM2A. These results have already been reported at a recent conference, ICRC 2023. And I expect to see the early result of the cosmic-ray electron spectrum measured by LHAASO in 2024.
+
+- Lorentz Violation (2021)
+
+The tiny modification of dispersion relation induced by Lorentz violation (LV) is an essential
+issue in quantum gravity (QG) theories, which can be magnified into significant effects when dealing with astrophysical observations at high energy and long propagation distance. LV would lead to photon decay at high energies, therefore, observations of high-energy photons could constrain LV or even QG theories. The Large High Altitude Air Shower Observatory (LHAASO)  reported the detection of PeV photon and Sub-PeV gamma sources. I have considered two scenarios of photon decay and photon splitting, which will set the most stringment limit for violation enegry scale than before.
+
+- First Principle Calculation on complex perovskite
+ 
+Barium-based complex perovskite ($\rm{Ba(B^{'}B^{"})O_{3}}$) ceramic is a kind of important material with outstanding properties such as high permittivity, structural tolerance, and chemical stability, which indicated their broad range of application in the optical field, including optical windows, lasers, scintillators, etc. The previous experiments and theoretical calculations in our research group have shown that the substitution of B-site ions causes the structural distortion of $[\rm{BO_{6}}]$ octahedrons and the perturbation of the electronic structure, thus affecting the optical properties of $\rm{Ba(B^{'}B^{"})O_{3}}$. Based on these results, I focused on the influence mechanism of the modification on the optical properties of $\rm{Ba(B^{'}B^{"})O_{3}}$ through the substitution of B-site ions, which aimed to make a contribution to the appliance of spectral modulation.
 
 <br>
 
 ---
 
 ## News and Updates
-
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/).
 
 <br>

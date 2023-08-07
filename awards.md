@@ -3,16 +3,14 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
-## Scholarships
+## Awards and Achievements
 
-- May 2023：**XiamenAir Scholarship** (about $1400)`<br>`One of the highest scholarships in Fujian Province.
+- 2016 - 2019 **WHUT Prize for Outstanding Student Performance**, Wuhan University of Technology.
+- 2021 - 2022 **Department Prize for Outstanding Student Performance**, Institute of High Energy Physics.
 
-## Competitions
+## Certifications
 
-- June 2023：**First Prize (Provincial Championship)** in Youth Science Popularization Innovation Project Competition
-
-## Services
-
-- Sep 2022 - Sep 2023：IEEE Student Membership
+- 2018：**Certified Advanced Students Training**. Awarded by XLAB Göttinger Experimentallabor in Georg-August-Universität Göttingen.
+- 2022: **Certified Data Analysis Skill.** Awarded by LHAASO Collaboration 2022 Summer School.
 
 Lastest Update: 21th May 2023 &nbsp; [中文 (Chinese Version)](https://easel7.github.io/awards_zh/)
