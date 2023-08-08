@@ -3,7 +3,7 @@ layout: page
 ---
 # About Me
 
-<img src="https://easel7.github.io/images/avatoar.png" class="floatpic" width="360" height="480">
+<img src="./images/avatar.png" class="floatpic" width="360" height="480">
 
 Here is Zheng Xiong **([熊 峥](https://easel7.github.io/file/C:\Users\Blank\OneDrive\Documents\GitHub\easel7.github.io\file\Resume_CN.pdf))**.
 
@@ -17,7 +17,7 @@ Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf)/[in 
 
 ## Academic Background
 
-**`<font color='red'>`[Highlight]`</font>` I am looking for Post Doc. to start in 2024 Fall. Contact me if you have any leads!** [xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)
+**<font color='red'>[Highlight]</font> **I am looking for Post Doc. to start in 2024 Fall. Contact me if you have any leads!** [xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)
 
 - **Sep 2019 - now :** Institute of High Energy Physics (Ph.D. Student)
 - **Sep 2015 - Jun 2019:** Wuhan University of Technology (BEng)
