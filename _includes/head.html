@@ -68,3 +68,23 @@
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}/images/apple-touch-icon-114x114-precomposed.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/apple-touch-icon-144x144-precomposed.png">
+
+<!-- Latex -->
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+        inlineMath: [ ['$$','$$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\(","\\)"] ],
+        },
+        TeX: {
+        Macros: {
+            bra: ["\\langle{#1}|", 1],
+            ket: ["|{#1}\\rangle", 1],
+            braket: ["\\langle{#1}\\rangle", 1],
+            bk: ["\\langle{#1}|{#2}|{#3}\\rangle", 3]
+        }
+        }
+    });
+    </script>
+      
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML' async></script>
