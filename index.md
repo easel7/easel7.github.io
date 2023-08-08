@@ -5,11 +5,7 @@ layout: page
 
 <img src="./images/avatar.png" class="floatpic" width="360" height="480">
 
-Here is Zheng Xiong **([熊 峥](https://easel7.github.io/file/C:\Users\Blank\OneDrive\Documents\GitHub\easel7.github.io\file\Resume_CN.pdf))**.
-
-I am a collaborator in the LHAASO (Large High Altitude Air Shower Observatory) Collaboration. I cooperated with my supervisor, [Prof. Huihai He](https://people.ucas.ac.cn/~hhh), to finish a  research article on the Lorentz violation constraint using the LHAASO-KM2A early-stage observation in 2021. Now, my Ph.D. research revolves around cosmic-ray electron studies.
-
-I am extremely fortunate to be advised by [Prof. Huihai He](https://people.ucas.ac.cn/~hhh) and [Prof. Jie Shen](http://smse.whut.edu.cn/yjspy/xsdw/sdxx/201612/t20161215_252230.htm).
+Here is Zheng Xiong **([熊 峥](https://easel7.github.io/file/C:\Users\Blank\OneDrive\Documents\GitHub\easel7.github.io\file\Resume_CN.pdf))**. I am a collaborator in the LHAASO (Large High Altitude Air Shower Observatory) Collaboration. I cooperated with my supervisor, [Prof. Huihai He](https://people.ucas.ac.cn/~hhh), to finish a  research article on the Lorentz violation constraint using the LHAASO-KM2A early-stage observation in 2021. Now, my Ph.D. research revolves around cosmic-ray electron studies.
 
 Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf)/[in Mandarin Chinese](https://easel7.github.io/file/Resume_EN.pdf).
 
@@ -17,7 +13,7 @@ Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf)/[in 
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> **I am looking for Post Doc. to start in 2024 Fall. Contact me if you have any leads!** [xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)
+**`<font color='red'>`[Highlight]`</font>` **I am looking for Post Doc. to start in 2024 Fall. Contact me if you have any leads!** [xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)
 
 - **Sep 2019 - now :** Institute of High Energy Physics (Ph.D. Student)
 - **Sep 2015 - Jun 2019:** Wuhan University of Technology (BEng)

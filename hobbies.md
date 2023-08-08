@@ -3,7 +3,6 @@ layout: page
 permalink: /hobbies/index.html
 title: Hobbies
 ---
-
 ## Teaching & Workshops
 
 As a member in Campus Cosmic-ray Observation Collaboration(CCOC)：
@@ -19,7 +18,6 @@ As a member in Campus Cosmic-ray Observation Collaboration(CCOC)：
 
 <!-- Calendly inline widget begin -->
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/blankeasel7/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/blankeasel7/30min" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
-

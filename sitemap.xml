@@ -4,25 +4,25 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://caihanlin.com/</loc>
+      <loc>https://easel7.github.io/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/file/Resume-HanlinCAI.pdf</loc>
+      <loc>https://easel7.github.io/file/Resume_EN.pdf</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/publications/</loc>
+      <loc>https://easel7.github.io/publications/</loc>
     </url>    
     <url>
-      <loc>https://caihanlin.com/projects/</loc>
+      <loc>https://easel7.github.io/projects/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/awards/</loc>
+      <loc>https://easel7.github.io/awards/</loc>
     </url>   
     <url>
-      <loc>https://caihanlin.com/hobbies/</loc>
+      <loc>https://easel7.github.io/hobbies/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/blogs/</loc>
+      <loc>https://easel7.github.io/blogs/</loc>
     </url>
 
     {% comment %}

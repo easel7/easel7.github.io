@@ -7,7 +7,7 @@ url: https://easel7.github.io
 # Owner/author information
 owner:
   name: Zheng Xiong
-  # avatar: hanlin.jpg
+  avatar: bio.jpg
   # bio:
   email: xiongzheng@ihep.ac.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -77,7 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: xiongzheng
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
