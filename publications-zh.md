@@ -3,14 +3,13 @@ layout: page
 permalink: /publications-zh/index.html
 title: Publications-zh
 ---
-
 # 发表论文
 
 Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://easel7.github.io/publications-zh/)
 
 ## 毕业论文
 
-- $Ba(B'B^{"})O_{3}$陶瓷光学性能的第一性原理计算 [原文](https://easel7.github.io/blob/main/mypaper/thesis/BEng_Thesis.pdf) **熊峥** (指导老师: 陈文, 副指导老师: 沈杰)，信息功能材料实验室，材料复合新技术国家重点实验室，武汉理工大学
+- $Ba(B'B'')O_{3}$陶瓷光学性能的第一性原理计算 [原文](https://easel7.github.io/blob/main/mypaper/thesis/BEng_Thesis.pdf) **熊峥** (指导老师: 陈文, 副指导老师: 沈杰)，信息功能材料实验室，材料复合新技术国家重点实验室，武汉理工大学
 
 ---
 
