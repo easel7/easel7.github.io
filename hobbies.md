@@ -15,11 +15,11 @@ As a member in Campus Cosmic-ray Observation Collaboration(CCOC)：
 
 - 2022.08江苏姜堰中学宇宙线探测器阵列(空气光导闪烁体探测器)安装调试
 
-  <img src="./images/HighSchoolatJiangyan.png" alt="空气光导闪烁体探测器安装调试" style="zoom:25%;" />
+  <img src="https://easel7.github.io/images/HighSchoolatJiangyan.png" alt="空气光导闪烁体探测器安装调试" style="zoom:25%;" />
 
 - 2022.09中国科技馆-全国科普日北京主场活动校园宇宙线活动讲解(入选2022年全国科普日优秀活动)
 
-  <img src="./images/TechMuseum.png" alt="宇宙线活动讲解" style="zoom: 25%;" />
+  <img src="https://easel7.github.io/images/TechMuseum.png" alt="宇宙线活动讲解" style="zoom: 25%;" />
 
 <br>
 
