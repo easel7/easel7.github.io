@@ -13,7 +13,10 @@ Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf)/[in 
 
 ## Academic Background
 
-**`<font color='red'>`[Highlight]`</font>` **I am looking for Post Doc. to start in 2024 Fall. Contact me if you have any leads!** [xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)
+<font color='red'>
+`[Highlight]`
+</font> 
+**I am looking for Post Doc. to start in 2024 Fall. Contact me if you have any leads!** [xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)
 
 - **Sep 2019 - now :** Institute of High Energy Physics (Ph.D. Student)
 - **Sep 2015 - Jun 2019:** Wuhan University of Technology (BEng)
