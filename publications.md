@@ -22,8 +22,8 @@ Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://easel7.
 
 ## Conference Paper
 
-- H. H. He, **Z. Xiong**, and S. Wu, "Method to measure muon content of extensive air showers with lhaaso km2a-wcda synergy", POS(ICRC 2023)314, Nagoya, Japan, 2023. (**Corresponding Author**)
-- **Z. Xiong**, S. Wu, and H. H. He, "Measurement of cosmic-ray electrons with lhaaso km2a-wcda synergy", POS(ICRC 2023)315,  Nagoya, Japan, 2023. (**Corresponding Author**)
+- H. H. He, **Z. Xiong**, and S. Wu, "[Method to measure muon content of extensive air showers with lhaaso km2a-wcda synergy](https://easel7.github.io/blob/main/mypaper/conference/ICRC2023_314.pdf)", POS(ICRC 2023)314, Nagoya, Japan, 2023. (**Corresponding Author**) [Poster](https://easel7.github.io/blob/main/mypaper/slides/Nagoya_Poster.pdf)
+- **Z. Xiong**, S. Wu, and H. H. He, "[Measurement of cosmic-ray electrons with lhaaso km2a-wcda synergy](https://easel7.github.io/blob/main/mypaper/conference/ICRC2023_315.pdf)", POS(ICRC 2023)315,  Nagoya, Japan, 2023. (**Corresponding Author**) [Oral](https://easel7.github.io/blob/main/mypaper/slides/Nagoya_Oral.pdf)
 
 ---
 

@@ -15,15 +15,15 @@ Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://easel7.
 
 ## 研究论文
 
-- L. Chen, **Z. Xiong**, C. Li, S. Chen, and H. He, "[Strong constraints on lorentz violation using new γ-ray observations around PeV](https://github.com/easel7/easel7.github.io/blob/main/mypaper/journal/20210622_CPC.pdf))", Chinese Physics C, vol. 45, no. 10, p. 105 105, 2021. [DOI: 10.1088/1674-1137/ac1166](DOI: 10.1088/1674-1137/ac1166) (**通讯作者**)
+- L. Chen, **Z. Xiong**, C. Li, S. Chen, and H. He, "[Strong constraints on lorentz violation using new γ-ray observations around PeV](https://easel7.github.io/blob/main/mypaper/journal/20210622_CPC.pdf)", Chinese Physics C, vol. 45, no. 10, p. 105 105, 2021. [DOI: 10.1088/1674-1137/ac1166](DOI: 10.1088/1674-1137/ac1166) (**通讯作者**)
 - **Z. Xiong**, S. Wu, and H. H. He,  "Method to measure muon content of extensive air showers with lhaaso KM2A-WCDA synergy" (article submitted for) Nuclear Instruments and Methods in Physics Research Section A, 2023.
 
 ---
 
 ## 会议文章
 
-- H. H. He, **Z. Xiong**, and S. Wu, "Method to measure muon content of extensive air showers with lhaaso km2a-wcda synergy", POS(ICRC 2023)314, Nagoya, Japan, 2023.(**通讯作者**)
-- **Z. Xiong**, S. Wu, and H. H. He, "Measurement of cosmic-ray electrons with lhaaso km2a-wcda synergy",  POS(ICRC 2023)315, Nagoya, Japan, 2023. (**通讯作者**)
+- H. H. He, **Z. Xiong**, and S. Wu, "[Method to measure muon content of extensive air showers with lhaaso km2a-wcda synergy](https://easel7.github.io/blob/main/mypaper/conference/ICRC2023_314.pdf)", POS(ICRC 2023)314, Nagoya, Japan, 2023.(**通讯作者**) [Poster](https://easel7.github.io/blob/main/mypaper/slides/Nagoya_Poster.pdf)
+- **Z. Xiong**, S. Wu, and H. H. He, "[Measurement of cosmic-ray electrons with lhaaso km2a-wcda synergy](https://easel7.github.io/blob/main/mypaper/conference/ICRC2023_315.pdf)",  POS(ICRC 2023)315, Nagoya, Japan, 2023. (**通讯作者**) [Oral](https://easel7.github.io/blob/main/mypaper/slides/Nagoya_Oral.pdf)
 
 ---
 

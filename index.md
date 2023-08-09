@@ -7,7 +7,7 @@ layout: page
 
 Here is Zheng Xiong **([熊 峥](https://easel7.github.io/file/C:\Users\Blank\OneDrive\Documents\GitHub\easel7.github.io\file\Resume_CN.pdf))**. I am a collaborator in the LHAASO (Large High Altitude Air Shower Observatory) Collaboration. I cooperated with my supervisor, [Prof. Huihai He](https://people.ucas.ac.cn/~hhh), to finish a  research article on the Lorentz violation constraint using the LHAASO-KM2A early-stage observation in 2021. Now, my Ph.D. research revolves around cosmic-ray electron studies.
 
-Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf)/[in Mandarin Chinese](https://easel7.github.io/file/Resume_EN.pdf).
+Here is [my Resume in English](https://easel7.github.io/file/Resume_EN.pdf) /[in Mandarin Chinese](https://easel7.github.io/file/Resume_CN.pdf).
 
 <br>
 
@@ -39,7 +39,7 @@ The tiny modification of dispersion relation induced by Lorentz violation (LV) i
 
 - First Principle Calculation on complex perovskite
 
-Barium-based complex perovskite ($\rm{Ba(B'B'')O_{3}}$) ceramic is a kind of important material with outstanding properties such as high permittivity, structural tolerance, and chemical stability, which indicated their broad range of application in the optical field, including optical windows, lasers, scintillators, etc. The previous experiments and theoretical calculations in our research group have shown that the substitution of B-site ions causes the structural distortion of $[\rm{BO_{6}}]$ octahedrons and the perturbation of the electronic structure, thus affecting the optical properties of $\rm{Ba(B^'B'')O_{3}}$. Based on these results, I focused on the influence mechanism of the modification on the optical properties of $\rm{Ba(B'B'')O_{3}}$ through the substitution of B-site ions, which aimed to make a contribution to the appliance of spectral modulation.
+Barium-based complex perovskite ($\rm{Ba(B'B'')O_{3}}$) ceramic is a kind of important material with outstanding properties such as high permittivity, structural tolerance, and chemical stability, which indicated their broad range of application in the optical field, including optical windows, lasers, scintillators, etc. The previous experiments and theoretical calculations in our research group have shown that the substitution of B-site ions causes the structural distortion of $[\rm{BO_{6}}]$ octahedrons and the perturbation of the electronic structure, thus affecting the optical properties of $\rm{Ba(B'B'')O_{3}}$. Based on these results, I focused on the influence mechanism of the modification on the optical properties of $\rm{Ba(B'B'')O_{3}}$ through the substitution of B-site ions, which aimed to make a contribution to the appliance of spectral modulation.
 
 <br>
 
