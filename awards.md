@@ -13,4 +13,4 @@ title: Awards
 - 2018: **Certified Advanced Students Training**. Awarded by XLAB Göttinger Experimentallabor in Georg-August-Universität Göttingen.
 - 2022: **Certified Data Analysis Skill.** Awarded by LHAASO Collaboration 2022 Summer School.
 
-Lastest Update: 21th May 2023 &nbsp; [中文 (Chinese Version)](https://easel7.github.io/awards_zh/)
+Lastest Update: 21th May 2023 &nbsp; [中文 (Chinese Version)](https://easel7.github.io/awards-zh/)
