@@ -1,6 +1,6 @@
 # The Simulation Workflow in the LHAASO-KM2A Group
 
-[toc]
+{:toc}
 
 ## 0 Preface
 
@@ -15,7 +15,7 @@
 
 **改进与交流**：
 
-本作者科研水平和编程水平极为有限。Note中的内容不保证正确性、正确性和客观性，所以请保持批判的态度阅读。如果你是LHAASO组的Newcomer，这个Note恰好就可以供你快速上手，生成一堆MC数据，至于重建每个人的物理目标不一样，我们会另起一篇Note。本Note采用Markdown语言在Typora编辑器(1.5.10 ver.)上编写，放在高能所搭的[HedgeDoc](https://note.ihep.ac.cn/s/pH5U1rIeh)网站和我的[Github](https://https://easel7.github.io/blogs/KM2A_Corsika_GEANT4.md)上。手册的排版和视觉效果受限于个人审美，请读者见谅。欢迎各位读者可以通过邮件与我联系交流:[xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)。
+本作者科研水平和编程水平极为有限。Note中的内容不保证正确性、正确性和客观性，所以请保持批判的态度阅读。如果你是LHAASO组的Newcomer，这个Note恰好就可以供你快速上手，生成一堆MC数据，至于重建每个人的物理目标不一样，我们会另起一篇Note。本Note采用Markdown语言在Typora编辑器(1.5.10 ver.)上编写，放在高能所搭的[HedgeDoc](https://note.ihep.ac.cn/s/pH5U1rIeh)网站和我的[Github](https://easel7.github.io/blogs/KM2A_Corsika_GEANT4.md)上。手册的排版和视觉效果受限于个人审美，请读者见谅。欢迎各位读者可以通过邮件与我联系交流:[xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)。
 
 **Account**
 
