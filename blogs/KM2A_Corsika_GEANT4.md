@@ -15,7 +15,7 @@
 
 **改进与交流**：
 
-本作者科研水平和编程水平极为有限。Note中的内容不保证正确性、正确性和客观性，所以请保持批判的态度阅读。如果你是LHAASO组的Newcomer，这个Note恰好就可以供你快速上手，生成一堆MC数据，至于重建每个人的物理目标不一样，我们会另起一篇Note。本Note采用Markdown语言在Typora编辑器(1.5.10 ver.)上编写，放在高能所搭的[HedgeDoc](https://note.ihep.ac.cn/Z5bpZtRnSay2OQeSsY87nQ)网站和我的[Github](https://https://easel7.github.io/blogs/KM2A_Corsika_GEANT4.md)上。手册的排版和视觉效果受限于个人审美，请读者见谅。欢迎各位读者可以通过邮件与我联系交流:[xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)。
+本作者科研水平和编程水平极为有限。Note中的内容不保证正确性、正确性和客观性，所以请保持批判的态度阅读。如果你是LHAASO组的Newcomer，这个Note恰好就可以供你快速上手，生成一堆MC数据，至于重建每个人的物理目标不一样，我们会另起一篇Note。本Note采用Markdown语言在Typora编辑器(1.5.10 ver.)上编写，放在高能所搭的[HedgeDoc](https://note.ihep.ac.cn/s/pH5U1rIeh)网站和我的[Github](https://https://easel7.github.io/blogs/KM2A_Corsika_GEANT4.md)上。手册的排版和视觉效果受限于个人审美，请读者见谅。欢迎各位读者可以通过邮件与我联系交流:[xiongzheng@ihep.ac.cn](mailto:xiongzheng@ihep.ac.cn)。
 
 **Account**
 
@@ -45,7 +45,7 @@ Primary_Particle--Corsika-->Shower--G4KM2A-->Simulated_Data
 
 我们已经准备好两个相互作用模型的Corsika(v77410)放在了cvmfs盘上，分别是EPOS_FLUKA和QGSJET_FLUKA。其中，FLUKA采用的是FLUKA_CERN的fluka4-1.1。Corsika程序运行完之后会生成二进制文件和一份info文件。
 
-### 1.1 需要做的事情：
+### 1.1 需要做的事情
 
 1. 在 `/cvmfs/lhaaso.ihep.ac.cn/km2amc/CORSIKA/corsika-77410_epos_inputcard`路径下设置好自己的Corsika输入卡(corsika inputcard)。
 2. 在EOS盘下生成路径保存你的CORSIKA路径。
@@ -165,7 +165,7 @@ fi
 
 我们已经准备好了G4KM2A模拟程序放在了cvmfs盘上，**理论**上我们记录了所有的事例，$\rm{NtrigE}\ge0$的事例我们都记录下来了。G4KM2A程序会生成一份模拟的root文件和一份报告文本文件info。有时会因为服务器节点的问题，G4KM2A会跑掉几个event，我们最后在检查的时候以info记录的个数为准。东莞的节点比北京的节点更稳定，推荐使用东莞的节点。
 
-### 2.1 需要做的事情：
+### 2.1 需要做的事情
 
 1. 在 `/cvmfs/lhaaso.ihep.ac.cn/km2amc/KM2A_Simulations/G4template/Energy2Reuse.json`路径下设置好自己的G4参数。
 2. 在EOS盘下生成路径保存你的G4KM2A路径。
