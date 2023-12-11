@@ -1,6 +1,5 @@
 # The Simulation Workflow in the LHAASO-KM2A Group
 
-{:toc}
 
 ## 0 Preface
 
