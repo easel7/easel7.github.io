@@ -5,7 +5,7 @@ title: Publications
 ---
 # Publications
 
-Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://easel7.github.io/publications-zh/)
+Lastest Update: 11th Dec 2023&nbsp;  [中文 (Chinese Version)](https://easel7.github.io/publications-zh/)
 
 ## Undergraduated Thesis
 
