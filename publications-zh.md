@@ -5,7 +5,7 @@ title: Publications-zh
 ---
 # 发表论文
 
-Lastest Update: 1st Aug. 2023&nbsp;  [中文 (Chinese Version)](https://easel7.github.io/publications-zh/)
+Lastest Update: 11th Dec. 2023&nbsp;  [中文 (Chinese Version)](https://easel7.github.io/publications-zh/)
 
 ## 毕业论文
 
