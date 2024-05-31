@@ -5,6 +5,9 @@ title: Blogs
 ---
 ## My Blogs
 
+### 2024
+
+
 ### 2023
 
 - [38th ICRC Conference in Nagoya City, Japan](https://easel7.github.io/blogs/ICRC2023)
