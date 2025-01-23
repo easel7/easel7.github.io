@@ -1,6 +1,6 @@
 # Tutorial for DAMPE Analysis
 
-[TOC]
+[toc]
 
 ## Preface
 
@@ -9,7 +9,7 @@
     We strongly discourage the use of VSCode as a remote editor. The VSCode server application, that is always and surreptitiously installed on the remote servers, consumes a significant amount of RAM, swap, and home disk memory (<code>du -hsx ~/.vscode-server</code>) on the remote machine, leading to slowness, performance issues, and even malfunctions impeding the work of other users.
 </div>
 
-Step 0. Ask supervisor to add you to the mailing list of DAMPE and ask for the permission to the DAMPE Twiki 
+Step 0. Ask supervisor to add you to the mailing list of DAMPE and ask for the permission to the DAMPE Twiki
 
 [mailing list](mailto:dampe-cr@pmo.ac.cn,dampe-pb@pmo.ac.cn,dampe-photon@pmo.ac.cn,dampe-simu@pmo.ac.cn)
 
@@ -17,7 +17,7 @@ Step 0. Ask supervisor to add you to the mailing list of DAMPE and ask for the p
 
 Step 1. https://www.ac.infn.it/associazioni/PaginaPubblicaAssociazioni/index.html
 
-**Sign Up**  &rarr; IoA1 &rarr; **User Portal** &rarr; Identical Verification via web meeting and upload your password &rarr; loA2 &rarr; E-Learning Course (Network Security) &rarr; Passed &rarr; **Gestione Associazioni** &rarr; Affiliation Process and Sign Contract 
+**Sign Up**  &rarr; IoA1 &rarr; **User Portal** &rarr; Identical Verification via web meeting and upload your password &rarr; loA2 &rarr; E-Learning Course (Network Security) &rarr; Passed &rarr; **Gestione Associazioni** &rarr; Affiliation Process and Sign Contract
 
 Step 2. EDH-account for CERN
 
@@ -27,8 +27,7 @@ Step 3. CNAF-INFN account https://www.cnaf.infn.it/en/users-faqs/
 
 Fill the form &rarr; Get your reference person in CNAF &rarr; submission
 
-
-## Build your workflow 
+## Build your workflow
 
 Windows: MobaXterm (Terminal), VSCode
 
@@ -44,7 +43,7 @@ cd /username/.ssh
 
 Step2. Create the public key and private key via the command in the Terminal (Windows or Mac)
 
-``` shell
+```shell
 # /username/.ssh
 ssh-keygen
 ```
@@ -95,7 +94,7 @@ ui-tier1.cr.cnaf.infn.it
 dampevm1.unige.ch
 ```
 
-![image-20250122230916310](C:\Users\Blank\AppData\Roaming\Typora\typora-user-images\image-20250122230916310.png)
+![image-20250122230916310](..\blogs\DAMPE\image-20250122230916310.png)
 
 ### Build Termial Workflow
 
@@ -104,16 +103,10 @@ dampevm1.unige.ch
 The public key authentication chain is as follows:
 
 - Add `local`’s public key to the ~/.ssh/authorized_keys file on host `bastion`.
-
 - Add `bastion`’s public key to the ~/.ssh/authorized_keys file on host `cnaf-dampe`.
-
 - Add `cnaf-dampe`’s public key to the ~/.ssh/authorized_keys file on host `dampe-workflow`.
 
 Done.
-
-
-
-
 
 Reference
 
@@ -124,4 +117,3 @@ Reference
 [3] https://www.cnaf.infn.it/~usersupport/XrootD_SA.html
 
 [4] https://code.visualstudio.com/blogs/2019/10/03/remote-ssh-tips-and-tricks
-
