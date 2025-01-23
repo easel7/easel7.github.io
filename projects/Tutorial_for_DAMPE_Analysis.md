@@ -111,3 +111,17 @@ The public key authentication chain is as follows:
 
 Done.
 
+
+
+
+
+Reference
+
+[1] https://confluence.infn.it/spaces/TD/pages/40665299/INFN-CNAF+Tier-1+User+Guide+July+2024+-+v19
+
+[2] http://afsapply.ihep.ac.cn/cchelp/zh/
+
+[3] https://www.cnaf.infn.it/~usersupport/XrootD_SA.html
+
+[4] https://code.visualstudio.com/blogs/2019/10/03/remote-ssh-tips-and-tricks
+
