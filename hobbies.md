@@ -24,6 +24,8 @@ As a member in Campus Cosmic-ray Observation Collaboration(CCOC)：
   <img src="https://easel7.github.io/images/OpenDay2023_2.png" alt="宇宙线活动讲解" style="zoom: 50%;" />
 - 2023.08 CCOC Summer School ([课程1-教材](http://ccoc.ihep.ac.cn/wp-content/uploads/%E6%AD%A6%E8%8E%8E-%E8%AF%BE%E7%A8%8B1%EF%BC%9A%E5%AE%87%E5%AE%99%E7%BA%BF%E6%98%AF%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5-%E5%A4%AA%E9%98%B3%E6%98%AF%E5%90%A6%E4%B8%BA%E5%AE%87%E5%AE%99%E7%BA%BF%E6%BA%90.pdf)).
 
+- 2024.09 CCOC Summer School XINHUA Middle School in Taizhou，JiangSu Province. 
+
 <br>
 
 <!-- Calendly inline widget begin -->

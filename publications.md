@@ -7,10 +7,10 @@ title: Publications
 
 Lastest Update: 19th Sep. 2024 [中文 (Chinese Version)](https://easel7.github.io/publications-zh/)
 
-## Undergraduated Thesis
+## Dissertation
 
 - The first principle calculation on the optical property on Barium-based complex perovskite ($Ba(B^{\prime}B^{\prime\prime})O_{3}$) [Archieved](https://github.com/easel7/easel7.github.io/blob/main/mypaper/thesis/BEng_Thesis.pdf) **Zheng Xiong** (Advisor: Wen Chen, co-Advisor: Jie Shen), The Laboratory of functional materials for Informatics, The State Key Laboratory of Advanced Technology and For Materials Synthesis and Processing, The Wuhan University of Technology
-- The Constraint on Lorentz Violation and the Measurement of Cosmic-Ray Electron Spectrum based on the LHAASO Experiment [Archieved](https://easel7.github.io/blob/main/mypaper/thesis/Dissertation_PhD.pdf) (Advisor: Huihai HE, co-Advisor: Sha WU), Institute of High Energy Physics, Chinese Academy of Sciences
+- The Constraint on Lorentz Violation and the Measurement of Cosmic-Ray Electron Spectrum based on the LHAASO Experiment [Archieved](https://easel7.github.io/blob/main/mypaper/thesis/Dissertation_PhD.pdf) **Zheng Xiong** (Advisor: Huihai HE, co-Advisor: Sha WU), Institute of High Energy Physics, Chinese Academy of Sciences
 
 ---
 
