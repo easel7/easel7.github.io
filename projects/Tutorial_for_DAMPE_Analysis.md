@@ -2,7 +2,7 @@
 
 [toc]
 
-## Preface
+## 0. Preface
 
 <div style="background-color: #f8d7da; color: #721c24; border: 5px solid #f5c6cb; padding: 15px; border-radius: 5px;">
 <strong>use of Visual Studio Code</strong>
@@ -27,7 +27,21 @@ Step 3. CNAF-INFN account https://www.cnaf.infn.it/en/users-faqs/
 
 Fill the form &rarr; Get your reference person in CNAF &rarr; submission
 
-## Build your workflow
+
+
+### Usefull Shortcuts
+
+1. [PMO Indico Page](https://indico.pmo.ac.cn/category/4/)
+2. [PMO indico page](https://indico.pmo.ac.cn/event/826/)
+3. [DMPSW code info](http://119.78.211.2:10088/SVNDAMPE/rep1/) (user:tutorial, pwd:tutorial)
+4. [DAMPE Twiki](https://twiki.cern.ch/twiki/bin/view/DAMPE/WebHome) - home (reference for any doubt)
+5. [SimulationGroup info](https://twiki.cern.ch/twiki/bin/view/DAMPE/DampeSimulation) DAMPE CR nuclei MC production 
+   - [MC Statistics](https://docs.google.com/spreadsheets/d/1-cvwk-k3zHKg0h5rklu5lhlrfOlsr5ep6WkQeeGW_6M/edit?pli=1&gid=0#gid=0)
+   - [Shift] (https://docs.google.com/spreadsheets/d/1khi1yaOGAAdarkfonenVrifoB40HFYax7ghw7gN2qos/edit?gid=1049189058#gid=1049189058)
+6. [DAMPE publications](https://dpnc.unige.ch/dampe/publication.html)
+
+
+## 1. Build your workflow
 
 Windows: MobaXterm (Terminal), VSCode
 
@@ -108,7 +122,61 @@ The public key authentication chain is as follows:
 
 Done.
 
-Reference
+2. ## 
+
+```
+B4.root
+├─particleName (1-proton, 2-deurteron)
+├─energy (Mev)
+├─Layer0 E dep(MeV)
+├─Layer1 E dep(MeV)
+├─...
+├─Layer13 E dep(MeV)
+├─Total E dep(MeV)
+├─Layer0 Track Length(mm)
+├─Layer1 Track Length(mm)
+├─...
+├─Layer13 Track Length(mm)
+├─Total Track Length(mm)
+├─First_Depth (mm)
+├─First_Layer 
+├─First_Type (0-electromagntic, 1-hadronic, 3-others)
+└─First_Second (number of Secondaries)
+```
+
+
+
+```
+        |<----layer 0---------->|<----layer 1---------->|<----layer 2---------->|
+        |                       |                       |                       |
+        ==========================================================================
+        ||              |       ||              |       ||              |       ||
+        ||              |       ||              |       ||              |       ||
+ beam   ||   absorber   |  gap  ||   absorber   |  gap  ||   absorber   |  gap  ||
+======||              |       ||              |       ||              |       ||
+        ||              |       ||              |       ||              |       ||
+        ==========================================================================
+```
+
+# Geant4 manual installation on macOS
+
+http://geant4-dna.in2p3.fr/styled-6/styled-12/index.html 
+
+Cmake command to build
+
+```shell
+cmake -DCMAKE_INSTALL_PREFIX=/Users/xiongzheng/software/build/geant4-v11.3.0-install -DCMAKE_BUILD_TYPE=RelWithDebInfo -DGEANT4_USE_GDML=ON -DXERCESC_ROOT_DIR=/opt/homebrew/opt/xerces-c -DGEANT4_USE_QT=ON -DGEANT4_INSTALL_EXAMPLES=ON -DGEANT4_INSTALL_DATA=ON -DGEANT4_USE_SYSTEM_EXPAT=OFF -DGEANT4_BUILD_TLS_MODEL=auto ../geant4
+```
+
+```shell
+rm -rf build CMakeCache.txt CMakeFiles
+mkdir build
+cd build
+comp ..
+make -j10
+```
+
+## X. Reference
 
 [1] https://confluence.infn.it/spaces/TD/pages/40665299/INFN-CNAF+Tier-1+User+Guide+July+2024+-+v19
 
