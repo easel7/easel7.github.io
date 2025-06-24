@@ -32,7 +32,6 @@ Fill the form &rarr; Get your reference person in CNAF &rarr; submission
 ### Usefull Shortcuts
 
 1. [PMO Indico Page](https://indico.pmo.ac.cn/category/4/)
-2. [PMO indico page](https://indico.pmo.ac.cn/event/826/)
 3. [DMPSW code info](http://119.78.211.2:10088/SVNDAMPE/rep1/) (user:tutorial, pwd:tutorial)
 4. [DAMPE Twiki](https://twiki.cern.ch/twiki/bin/view/DAMPE/WebHome) - home (reference for any doubt)
 5. [SimulationGroup info](https://twiki.cern.ch/twiki/bin/view/DAMPE/DampeSimulation) DAMPE CR nuclei MC production 
