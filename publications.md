@@ -5,7 +5,7 @@ title: Publications
 ---
 # Publications
 
-Lastest Update: 19th Sep. 2024 [中文 (Chinese Version)](https://easel7.github.io/publications-zh/)
+Lastest Update: 31st July. 2025 [中文 (Chinese Version)](https://easel7.github.io/publications-zh/)
 
 ## Dissertation
 
@@ -18,7 +18,7 @@ Lastest Update: 19th Sep. 2024 [中文 (Chinese Version)](https://easel7.github.
 
 - L. Chen, **Z. Xiong**, C. Li, S. Chen, and H. He, "[Strong constraints on lorentz violation using new γ-ray observations around PeV](https://easel7.github.io/blob/main/mypaper/journal/20210622_CPC.pdf)," Chinese Physics C, vol. 45, no. 10, p. 105 105, 2021. [DOI: 10.1088/1674-1137/ac1166](DOI: 10.1088/1674-1137/ac1166) (**Corresponding Author**)
 - **Z. Xiong**, S. Wu, and H. H. He, "[Method to measure muon content of extensive air showers with lhaaso KM2A-WCDA synergy](https://easel7.github.io/blob/main/mypaper/journal/20231127_NIMA.pdf)," Nuclear Instruments and Methods in Physics Research Section A, vol. 1059, p. 168 958, 2024. [DOI: 10.1016/j.nima.2023.168958](DOI: 10.1016/j.nima.2023.168958) (**Corresponding Author**)
-
+- **Z. Xiong**, S. Wu, and H. H. He,  "[Constraints on the cosmic-ray electron spectrum above 25 TeV from the LHAASO experiment](https://easel7.github.io/blob/main/mypaper/journal/20250731_PRD.pdf)" Physical Review D, 112, 022007 [DOI: DOI: https://doi.org/10.1103/wy2f-b9p3] (**Corresponding Author**)
 ---
 
 ## Conference Paper
